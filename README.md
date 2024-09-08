@@ -3,6 +3,11 @@
 
 This repository contains the code for a movie recommender system built using machine learning. The system recommends movies based on user preferences and uses cosine similarity for recommendations.
 
+## Live Site
+
+You can view the live version of my portfolio at: [Movie Recommender System](https://moviefinderrr.streamlit.app/)
+
+
 ## Features
 - **Movie Recommendation**: Recommends movies similar to the one selected by the user.
 - **Cosine Similarity**: Uses cosine similarity to measure how closely related movies are based on their features.
